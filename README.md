@@ -1,15 +1,15 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Sergio Lopez</h1>
-    <h3 align="center">A passionate web fullstack developer</h3>
+    <h3 align="center">A passionate fullstack developer</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me :
 
-- 📫 How to reach me **https://www.linkedin.com/in/sergio-lopez-860384244/**
+- 📫 How to reach me **[https://www.linkedin.com/in/sergio-lopez-860384244/](https://www.linkedin.com/in/sergio-lopez-manga-860384244/)**
 
-- 🌱 I’m currently learning **Blockchain, Web3 and Solidity**
+- 🌱 I’m currently learning **App and web development, Computer Vision**
 
 - 🌐 Website **https://sergilopez.github.io/**
 
