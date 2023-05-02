@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYyYzZjZTcwY2IyNDJjMDU1NjY2MWM3MjgyY2MwZDFkZGRiZjQwNCZjdD1n/zOvBKUUEERdNm/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Sergio Lopez</h1>
     <h3 align="center">A passionate web fullstack developer</h3>
 </div>
