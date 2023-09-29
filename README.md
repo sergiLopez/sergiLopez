@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📫 How to reach me **[https://www.linkedin.com/in/sergio-lopez-860384244/](https://www.linkedin.com/in/sergio-lopez-manga-860384244/)**
+- 📫 How to reach me **https://www.linkedin.com/in/sergio-lopez-manga-860384244/**
 
 - 🌱 I’m currently learning **Cybersecurity and Computer Vision**
 
