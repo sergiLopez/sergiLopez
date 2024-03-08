@@ -30,8 +30,24 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sergiLopez&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiLopez&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiLopez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=sergiLopez&theme=onedark" style="max-width: 100%;">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=sergiLopez&show_icons=true&theme=radical" style="max-width: 100%;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+<td colspan="2" align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiLopez&theme=tokyonight" style="max-width: 100%;">
+      </a>
+    </td>
+  </tr>
+</table>
